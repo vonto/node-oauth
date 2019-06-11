@@ -11,5 +11,6 @@
 , "scripts": {
     "test": "make test"
   }
-, "license": "MIT" 
+, "license": "MIT"
+, "types": "node-oauth.d.ts"
 }
